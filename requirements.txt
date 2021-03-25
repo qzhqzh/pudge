@@ -54,7 +54,7 @@ pyparsing==2.4.6
 pyrsistent==0.15.7
 python-slugify==4.0.0
 pytz==2019.3
-PyYAML==5.3
+PyYAML==5.4
 requests==2.22.0
 ruamel.yaml==0.16.10
 ruamel.yaml.clib==0.2.0
